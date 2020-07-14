@@ -15,3 +15,50 @@ Ne kadar fazla sözcük o kadar fazla kombinasyon demektir.
 - 
 #####  [ ! ] Lütfen Legal Penetrasyon Testleri İçin Kullanınız Aksi Halde Sorumluluk Size Aittir.
              
+## KULLANIM 
+```
+
+  ██████╗ ██╗      █████╗ ████████╗ █████╗ ███╗  ██╗
+  ██   ██╗██║░░░░░██   ██╗╚══██╔══╝██   ██╗████╗░██║
+  ██████╔╝██║░░░░░███████║░░░██║░░░██   ██║██╔██╗██║
+  ██╔═══╝░██║░░░░░██   ██║░░░██║░░░██   ██║██║╚████║
+  ██║░░░░░███████╗██   ██║░░░██║░░░╚█████╔╝██║░╚███║
+  ╚═╝░░░░░╚══════╝╚═╝  ╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚══╝
+  █ █ █ █▀█ █▀█ █▀▄ █   █ █▀ ▀█▀   █▀▄▀█ ▄▀█ █▄▀ █▀▀ █▀█
+  ▀▄▀▄▀ █▄█ █▀▄ █▄▀ █▄▄ █ ▄█  █    █ ▀ █ █▀█ █ █ ██▄ █▀▄
+                                                                 -by mefistophelezz
+
+ [ ▶ ]  Wordlist Ayrıştırmak İsterseniz [1] yazın yada enter'e basınız... :
+
+ ####################################################################
+ [ YOKSA BOŞ BIRAKINIZ ]
+ [ ÇOKLU,DEĞERLER,VİRGÜLLE,AYIRARAK,YAZILIR,YANİ,BÖYLE ]
+
+ [+] AD : walter,hartwell
+ [+] SOYAD : white
+ [+] ŞEHİR : Albuquerque,abq
+ [+] LAKAP : heisenberg
+ [+] EVCİL HAYVAN ADI : tuco
+ [+] Özel İsimler : jesse,gus,chemistry
+ ####################################################################
+
+ [?] Sayılar Dahil Edilsin mi ? [0123456789}] [Y/N] : y
+
+ [?] Başlarada Sayı Eklensin mi ?  [Y/N]  : y
+ [?] Max. Uzunluğu Giriniz [Boş Bırakabilirsiniz] : 20
+
+ [?] Özel Semboller Dahil Edilsin mi ?  [Y/N]  : y
+
+ [?] Hangi Özel Karakterleri Dahil Etmek İstersiniz [ !,?,#,$ ]
+ [!] Üstteki Gibi Virgülle Yazınız : -,_
+
+ [+] Wordlist İsmi Ne Olsun ? >>> BreakingBad
+
+
+
+ ########################################
+ [*] 475796 Kombinasyon Oluşturuldu.
+ ########################################
+ [*] BreakingBad.txt kaydedildi...
+ ########################################
+```
