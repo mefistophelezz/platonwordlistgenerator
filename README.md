@@ -15,7 +15,7 @@ Ne kadar fazla sözcük o kadar fazla kombinasyon demektir.
 
 #####  [ ! ] Lütfen Legal Penetrasyon Testleri İçin Kullanınız Aksi Halde Sorumluluk Size Aittir.
          
-# TERMUX
+#### TERMUX
 > ```
 > Kurulum : 
 > pkg install git
