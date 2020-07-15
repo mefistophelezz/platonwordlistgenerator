@@ -27,3 +27,6 @@ Bilgisayarınızda Python3 Olması Yeterlidir.
 > cd platonwordlistgenerator
 > python platon.py
 > ```
+
+## KULLANIM
+![](blob:https://giphy.com/e0db84a3-82f7-4a8e-a491-795855c46454)
