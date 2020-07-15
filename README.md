@@ -15,3 +15,11 @@ Ne kadar fazla sözcük o kadar fazla kombinasyon demektir.
 
 #####  [ ! ] Lütfen Legal Penetrasyon Testleri İçin Kullanınız Aksi Halde Sorumluluk Size Aittir.
              
+> ```
+> Termux : 
+> pkg install git
+> pkg install python
+> git clone https://github.com/mefistophelezz/platonwordlistgenerator
+> cd platonwordlistgenerator
+> python platon.py
+> ```
