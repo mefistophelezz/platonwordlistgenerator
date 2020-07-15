@@ -28,4 +28,3 @@ Bilgisayarınızda Python3 Olması Yeterlidir.
 > python platon.py
 > ```
 
-## KULLANIM
