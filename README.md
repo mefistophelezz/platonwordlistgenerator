@@ -14,9 +14,10 @@ Ne kadar fazla sözcük o kadar fazla kombinasyon demektir.
 - Kaynak Kodda bol bol yorum satırı mevcuttur isteyen düzenleyebilir.
 
 #####  [ ! ] Lütfen Legal Penetrasyon Testleri İçin Kullanınız Aksi Halde Sorumluluk Size Aittir.
-             
+         
+# TERMUX
 > ```
-> Termux : 
+> Kurulum : 
 > pkg install git
 > pkg install python
 > git clone https://github.com/mefistophelezz/platonwordlistgenerator
