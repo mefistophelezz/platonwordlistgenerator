@@ -29,4 +29,4 @@ Bilgisayarınızda Python3 Olması Yeterlidir.
 > ```
 
 ## KULLANIM
-![](https://s7.gifyu.com/images/platon.md.gif)
+![](https://s7.gifyu.com/images/platon.gif)
