@@ -13,13 +13,16 @@ Ne kadar fazla sözcük o kadar fazla kombinasyon demektir.
 - Fazla Sözcük Fazla Boyut(mb) demektir.
 - Kaynak Kodda bol bol yorum satırı mevcuttur isteyen düzenleyebilir.
 
+## GEREKSİNİMLER
+Bilgisayarınızda Python3 Olması Yeterlidir.
+
 #####  [ ! ] Lütfen Legal Penetrasyon Testleri İçin Kullanınız Aksi Halde Sorumluluk Size Aittir.
          
 #### TERMUX
 > ```
 > Kurulum : 
 > pkg install git
-> pkg install python
+> pkg install python3
 > git clone https://github.com/mefistophelezz/platonwordlistgenerator
 > cd platonwordlistgenerator
 > python platon.py
