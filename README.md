@@ -29,4 +29,3 @@ Bilgisayarınızda Python3 Olması Yeterlidir.
 > ```
 
 ## KULLANIM
-![](https://i.imgflip.com/48bo2s.gif)
