@@ -9,7 +9,7 @@ için sınırsız uzunlukta wordlistler oluşturabilirsiniz.
 
 Ne kadar fazla sözcük o kadar fazla kombinasyon demektir.
 
-- Oluşturulan Wordlistler Klasöre Kaydedilecektir.
+- Oluşturulan Wordlistler 'Wordlist' Klasörüne Kaydedilecektir.
 - Fazla Sözcük Fazla Boyut(mb) demektir.
 - Kaynak Kodda bol bol yorum satırı mevcuttur isteyen düzenleyebilir.
 
@@ -28,3 +28,5 @@ Bilgisayarınızda Python3 Olması Yeterlidir.
 > python platon.py
 > ```
 
+## KULLANIM
+![](https://media.giphy.com/media/l0jXjaibriZme4XeCW/giphy.gif)
