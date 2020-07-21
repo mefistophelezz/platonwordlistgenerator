@@ -20,7 +20,7 @@ Bilgisayarınızda Python3 Olması Yeterlidir.
 
 #### TERMUX
 > ```
-> Kurulum : 
+> setup : 
 > pkg install git
 > pkg install python3
 > git clone https://github.com/mefistophelezz/platonwordlistgenerator
