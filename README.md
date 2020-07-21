@@ -1,9 +1,8 @@
+![](https://tr.cooltext.com/Rendered/Cool-Text-357646197440443.png)
 # PLATON CUSTOM WORDLİST GENERATOR
-
-
 ## HAKKINDA
 
-PLATON WORDLİST MAKER bir wordlist oluşturma yazılımıdır.
+PLATON WORDLİST GENERATOR bir wordlist oluşturma yazılımıdır.
 Bu program sayesinde kaba kuvvet (bruteforce) saldırıları
 için sınırsız uzunlukta wordlistler oluşturabilirsiniz.
 
