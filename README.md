@@ -1,4 +1,4 @@
-![](https://tr.cooltext.com/Rendered/Cool-Text-357646197440443.png)
+![](https://i.ibb.co/pyx37x9/Ads-z.png)
 # PLATON CUSTOM WORDLİST GENERATOR
 ## HAKKINDA
 
