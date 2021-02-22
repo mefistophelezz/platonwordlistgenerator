@@ -1,5 +1,4 @@
 ![](https://i.ibb.co/pyx37x9/Ads-z.png)
-# PLATON CUSTOM WORDLİST GENERATOR
 ## HAKKINDA
 
 PLATON WORDLİST GENERATOR bir wordlist oluşturma yazılımıdır.
